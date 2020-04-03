@@ -9,7 +9,8 @@ The first step is charging the Arduino bootloader using USBasp.
 Step 2
 The second step is sending a home energy monitoring system using USB to TT. Please click the sample Arduino program and library link below.
 
-https://boredomprojects.net/index.php/projects/home-energy-monitor 
+https://boredomprojects.net/index.php/projects/home-energy-monitor
+.
 https://github.com/openenergymonitor/EmonLib
 
 Step 3
